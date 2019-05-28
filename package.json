@@ -1,0 +1,8 @@
+{
+    "name": "main",
+    "private": true,
+    "workspaces": [
+        "client",
+        "lib"
+    ]
+}
